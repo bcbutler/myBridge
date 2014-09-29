@@ -1,5 +1,4 @@
 # myBridge
-========
 
 Node.js Asterisk confBridge moderator landing page.  Moderator login is validated from mySQL database.  Events are logged using AMI.
 
