@@ -11,3 +11,17 @@ Built upon:
 - passport
 - express 4.x
 
+Design assumptions:
+- Asterisk version 11.x
+- mySQL table:
+  - Conference
+  - Moderator PIN
+  - Participant PIN
+  - Bridge Profile
+  - User Profile
+  - First Name
+  - Last Name
+  - Phone Number
+  - Email Address
+- Websocket for server/client communiations
+- jQuery for dynamic content update
