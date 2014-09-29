@@ -2,7 +2,7 @@
 
 Node.js Asterisk confBridge moderator landing page.  Moderator login is validated from mySQL database.  Events are logged using AMI.
 
-#Features:
+##Features:
 - Last 5 active talkers
 - Mute / Unmute individual participants
 - Mute / Unmute entire conference
@@ -15,9 +15,9 @@ Node.js Asterisk confBridge moderator landing page.  Moderator login is validate
 - Same session reconnect to websocket
 - New session redirect to login
 
-#Project Details
+##Project Details
 
-##Built upon:
+###Built upon:
 - Node.js
 - Html5
 - socket.io (1.10)
@@ -26,7 +26,7 @@ Node.js Asterisk confBridge moderator landing page.  Moderator login is validate
 - express 4.x
 - Jade templates
 
-##Design assumptions:
+###Design assumptions:
 - Asterisk version 11.x
 - mySQL table:
   - Conference
