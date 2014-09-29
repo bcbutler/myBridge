@@ -42,4 +42,4 @@ Node.js Asterisk confBridge moderator landing page.  Moderator login is validate
 - jQuery for dynamic content update
 
 ##License
-MIT
+GNU
